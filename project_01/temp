@@ -1,0 +1,21 @@
+
+def line_wrap(self, num_line, font, width, line):
+    line_array = []
+    while (len(line) > 0) and (len(line_array) <= num_line):
+        line_width = font.getlength(line)
+        line_len   = len(line)
+        for i in range(line_len):
+            end_char   = line_len - i
+            line_width = font.getsize(line[:end_char])[0]
+            if (line_width <= width):
+                line_seg = line[:end_char]
+                line_array.append(line_seg)
+                line = line[end_char:len(line)]
+                break
+    return line_array
+    
+    
+
+
+
+

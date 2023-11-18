@@ -16,8 +16,7 @@ This device features interactive components that engage with the user during pla
 -LCD Screen
 
 ## Set Up
-A device description with build instructions, including proper wiring of electronics and hardware components, can be found in the following Hackster page: [Who said it? Taylor Swift vs. Shakespeare Trivia](https://www.hackster.io/vlo1/who-said-it-taylor-swift-vs-shakespeare-trivia-fd3cca)
-
+A device description with build instructions, including proper wiring of electronics and hardware components, can be found in the following Hackster page: [Who said it? Taylor Swift vs. Shakespeare Trivia](https://www.hackster.io/vlo1/who-said-it-taylor-swift-vs-shakespeare-trivia-fd3cca) 
 
 ## Usage
 

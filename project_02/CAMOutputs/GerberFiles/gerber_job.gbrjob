@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-12-12T01:11:29Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.53,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "Vale_Project_02"
+        },
+        "Owner": "Valentina Ortega <vlo1@rice.edu>",
+        "Size": {
+            "X": 126.98,
+            "Y": 101.27
+        }
+    }
+}

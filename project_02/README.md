@@ -1,1 +1,10 @@
+<h1> Taylor Swift vs. Shakespeare Trivia Game PCB Design </h1>
+<h2> Project Overview </h2>
+Ever since I was young, I've been an avid listener of Taylor Swift. My favorite thing about her songs were her lyrics, and as I've grown up through my teen years, I've watched her lyrics develop with her career. Some of her later work has very sophisticated lyricism drawing from famous poetry and literature. I wanted to make a game that was both engaging and challenging, and made the player acknowledge some of their inherent preconception of Taylor Swift lyrics. For this project, I created a portable trivia game with two buttons and an SPI screen, coded to boot on power and run for 60 seconds as the user answers as many questions as they can. Then, the game outputs a score on the screen, and you can repeat this cycle. The block diagrams and hardware setup for the build device are documented on my Hackster.io page: https://www.hackster.io/511943/who-said-it-taylor-swift-vs-shakespeare-trivia-fd3cca. 
 
+<h2> Navigating the Project 2 Repository </h2>
+All of the documentatio for the PCB design can be found in the Project 2 folders. In the general project 2 folder, you can find the OCB BOM, top and bottom assembly pdfs, and a pdf of the device schematic frmo EAGLE. The contents of each folder are outlined below:
+1. /docs folder contains the mechanical and system block diagrams for the device, including the mechanical layout of components on the PCB. It also contains the top and bottom views of the PCB assembly.
+2. /EAGLE folder contains the .brd, .sch, and .lbr files for the PCB
+3. /CAMOutputs folder contains the MFG files, including assembly files, drill files, and gerber files
+4. /Macrofab folder contines the Macrofab BOM, a .txt with my account info for lookup, and a pdf of a representative quote approximation for the manufacturing of one (1) unit of my PCB. I also got quotes for 10, 100, and 1000 units. With a 17-day lead time, 1 board costed $1,004.37, 10 boards costed $1,374.15, 100 boards costed $3,246.26, and 1000 boards costed $16,609.49.
